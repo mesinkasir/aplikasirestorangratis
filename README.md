@@ -2,12 +2,14 @@
 
 Projectforkopenbravorestoindonesialanguage 
 
-Ini adalah aplikasi toko gratis untuk digunakan dalam menunjang kebutuhan usaha mu, dilengkapi dengan barcode system dan full touchscreen dalam penggunaan nya.
+[Bantuan installasi dan penggunaan click disini](https://www.hockeycomputindo.com/2020/04/aplikasi-restoran-gratis-download-full.html)
+
+Ini adalah aplikasi restoran gratis untuk digunakan dalam menunjang kebutuhan usaha mu, dilengkapi dengan barcode system dan full touchscreen dalam penggunaan nya.
 
 Fitur master based : 
 - user : untuk memasukan user dengan hak akses
 - Categories : untuk memasukan kategori produk
-- Produk : untuk memasukan produk jual plus gambar foto produk dan barcode kode
+- Produk dan menu : untuk memasukan produk jual dan menu makanan minuman plus gambar foto produk dan barcode kode
 - Kategori pajak
 - Pajak PPn
 - Stok harian untuk melakukan in out stok
@@ -26,6 +28,8 @@ Printer : Fitur screen printer setiap all transaksi akan disimpan pada screen pr
 Keluar : Fitur log off aplikasi toko
 
 Dukungan dengan paket mesin kasir lengkap tersedia untuk menunjang kebutuhan usaha mu , free installasi dan setting plus aplikasi toko software toko lebih lengkap dalam point of sale package set mu.
+
+[Bantuan installasi dan penggunaan click disini](https://www.hockeycomputindo.com/2020/04/aplikasi-restoran-gratis-download-full.html)
 
 https://mesinkasir.github.io
 
